@@ -14,9 +14,8 @@ This is a simple Calculator app built using HTML and CSS.
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/jhasaurav97/calculator-app.git`
-2. Navigate to the project folder: `cd calculator-app`
-3. Open `index.html` in your preferred web browser.
+1. Clone the repository: `git clone https://github.com/jhasaurav97/Calculator-using-HTML-CSS-Javascript.git`
+2. Open `index.html` in your preferred web browser.
 
 ## Usage
 
