@@ -10,12 +10,11 @@ This is a simple Calculator app built using HTML and CSS.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/calculator-app.git`
+1. Clone the repository: `git clone https://github.com/jhasaurav97/calculator-app.git`
 2. Navigate to the project folder: `cd calculator-app`
 3. Open `index.html` in your preferred web browser.
 
@@ -30,6 +29,7 @@ This is a simple Calculator app built using HTML and CSS.
 
 - HTML
 - CSS
+- JavaScript 
 
 ## Contributing
 
