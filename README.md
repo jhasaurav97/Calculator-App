@@ -21,7 +21,7 @@ This is a simple Calculator app built using HTML and CSS.
 
 1. Click on the number buttons to enter values.
 2. Click on the operation buttons (+, -, *, /) to perform calculations.
-3. Use the "C" button to clear the input.
+3. Use the "AC" button to clear the input.
 4. The result will be displayed in the calculator screen.
 
 ## Technologies Used
