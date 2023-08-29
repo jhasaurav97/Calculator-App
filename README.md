@@ -1,6 +1,6 @@
 # Calculator App
 
-This is a simple Calculator app built using HTML and CSS.
+This is a simple Calculator app built using HTML, CSS and JavaScript.
 
 ## Features
 
